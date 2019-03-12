@@ -6,7 +6,7 @@ int main()
 {
 	const int N = 30;
 	int a[N] = { 0 };
-
+//:)
 	for (int i = 2; i < N; i++) {
 		printf("%3d", i);}
 	printf("\n");
